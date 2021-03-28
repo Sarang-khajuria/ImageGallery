@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  box-sizing: border-box;
+  max-width: 1400px;
+  margin: auto;
+  background-color: cornsilk;
+  height: 100vh
 }
 
 .App-logo {

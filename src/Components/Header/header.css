@@ -1,0 +1,32 @@
+.header-section {
+  padding: 2em;
+  padding-bottom: 1.5em;
+  display: grid;
+  grid-template-columns: 30% 70%;
+  border-bottom: 1px dotted blueviolet;
+  background-color: rgb(46, 51, 46);
+  color: white;
+}
+
+.logo{
+  max-width: 100px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  font-size: 2em;
+  justify-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: underline;
+}
+
+.header-image {
+  padding: 1em;
+
+}
+
+.header-image img {
+  width: 100%;
+  justify-content: space-between;
+}
